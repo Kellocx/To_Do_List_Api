@@ -6,7 +6,7 @@
 ---
 
 
-![Screenshot dell app](./images/Screenshot1.PNG)
+![Screenshot dell app](./images/Screenshot1.png)
 
 
 ---
